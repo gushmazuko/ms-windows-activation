@@ -10,6 +10,25 @@ powershell -exec bypass 'iwr -useb https://kutt.it/win-activate | iex; win -os w
 powershell -exec bypass 'iwr -useb https://github.com/gushmazuko/ms-software-activation/raw/master/win_activate.ps1 | iex; win -os win10pro'
 ```
 
+- **Validate arguments:**
+  - `win10pro`
+  - `win10ent-ltsc`
+  - `win2022-dtc`
+  - `win2022-std`
+  - `win2022-ess`
+  - `win2019-dtc`
+  - `win2019-std`
+  - `win2019-ess`
+  - `win2016-dtc`
+  - `win2016-std`
+  - `win2016-ess`
+
+
+- For **Windows 11 and Windows 10** use:
+  - `win10pro`  
+- For **Windows 10 LTSC 2021 and 2019**:
+  - `win10ent-ltsc`
+
 ### Manual
 Run `CMD.exe` as Admin and execute (example for **Windows 10 Pro**):
 ```cmd
