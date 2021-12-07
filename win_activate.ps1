@@ -7,7 +7,7 @@
   File Name  : win_activate.ps1
   Author     : Gushmazuko
 .LINK
-  https://github.com/gushmazuko/ms-software-activation
+  https://github.com/gushmazuko/ms-windows-activation
   Original source: https://kms.msguides.com/
 .EXAMPLE
   iwr -useb https://kutt.it/win-activate | iex; win -os win10pro

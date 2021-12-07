@@ -7,7 +7,7 @@ Execute as Admin:
 ```powershell
 powershell -exec bypass 'iwr -useb https://kutt.it/win-activate | iex; win -os win10pro'
 # OR
-powershell -exec bypass 'iwr -useb https://github.com/gushmazuko/ms-software-activation/raw/master/win_activate.ps1 | iex; win -os win10pro'
+powershell -exec bypass 'iwr -useb https://github.com/gushmazuko/ms-windows-activation/raw/master/win_activate.ps1 | iex; win -os win10pro'
 ```
 
 - **Validate arguments:**
