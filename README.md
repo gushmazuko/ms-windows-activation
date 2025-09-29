@@ -33,7 +33,7 @@ powershell -exec bypass 'iwr -useb https://github.com/gushmazuko/ms-windows-acti
 Run `CMD.exe` as Admin and execute (example for **Windows 10 Pro**):
 ```cmd
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-slmgr /skms kms.03k.org
+slmgr /skms kms8.msguides.com
 slmgr /ato
 ```
 
