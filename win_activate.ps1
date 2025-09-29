@@ -20,9 +20,9 @@ function win() {
     )
 
     ## Vars
-    #$KmsSrv = "kms8.msguides.com"
+    $KmsSrv = "kms8.msguides.com"
     #$KmsSrv = "corp-kms-ws2019.woshub.com:1688"
-    $KmsSrv = "kms.03k.org"
+    #$KmsSrv = "kms.03k.org"
 
     switch($os)
     {
